@@ -1,3 +1,6 @@
+#include "Parser.hpp"
+
+
 void Parser::writeInFile(string data, string filepath)
 {
 	ofstream myfile;
