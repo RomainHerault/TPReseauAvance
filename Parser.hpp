@@ -9,6 +9,6 @@ using namespace std;
 class Parser
 {
 	public :
-		static writeInFile(string data, string filepath);
+		static void writeInFile(string data, string filepath);
 	
 }
